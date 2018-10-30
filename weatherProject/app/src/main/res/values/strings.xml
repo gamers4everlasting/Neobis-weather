@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weatherProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="comment_data">commentData</string>
+    <string name="album_pic"> albumPic </string>
+    <string name="weather_icon"> T </string>
+    />
+</resources>
